@@ -13,4 +13,5 @@ VALUES (1, "Jay Sherman is a New York film critic who has to review films he doe
        (3, "Mike, Jay, Rich and the rest of the Red Letter Media crew brave some of the worst movies ever created by man."),
        (4, "Chicago critics Gene Siskel and Roger Ebert rate new movies with a thumbs up, or a thumbs down."),
        (5, "The life and career of the renowned film critic and social commentator, Roger Ebert.");
+       (6, "test");
         
